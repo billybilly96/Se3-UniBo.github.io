@@ -10,7 +10,7 @@ The quadratic memory complexity of pre-trained transformers limits the summariza
 
 ### Support or Contact
 
-The team is made by: 
+The team is made up of: 
 * Dr. Luca Ragazzi (PhD Student) (l.ragazzi@unibo.it)
 * Prof. Gianluca Moro (PhD) (gianluca.moro@unibo.it)
 
