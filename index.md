@@ -1,6 +1,6 @@
 Paper accepted at AAAI22
 
-![Se3](https://github.com/Se3-UniBo/Se3-UniBo.github.io/edit/main/s3.png)
+![Se3](https://github.com/Se3-UniBo/Se3-UniBo.github.io/blob/main/se3.png)
 
 
 ## Abstract
