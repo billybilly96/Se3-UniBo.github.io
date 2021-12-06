@@ -5,7 +5,7 @@ The quadratic memory complexity of pre-trained transformers limits the summariza
 
 ### WebApp
 
-[Se3 Web Application]
+It will be available soon!
 
 
 
