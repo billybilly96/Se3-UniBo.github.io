@@ -17,3 +17,6 @@ It will be available soon!
 * Gianluca Moro (PhD) - gianluca.moro@unibo.it
 
 _Department of Computer Science and Engineering, University of Bologna, Campus of Cesena_
+
+
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
