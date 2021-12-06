@@ -1,5 +1,5 @@
 title: "Se3"
 github:
   is_project_page: false
-highlighter: rouge
 theme: jekyll-theme-cayman
+description: "Semantic Self-segmentation for Abstractive Summarization of Long Legal Documents in Low-resource Regimes"
