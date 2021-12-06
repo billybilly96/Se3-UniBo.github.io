@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+### Abstract
+The quadratic memory complexity of pre-trained transformers limits the summarization of long documents in a low-budget GPU scenario. State-of-the-art models truncate the input in such low-resource regimes, thus discarding and ignoring potential summary-relevant contents that lead to a performance drop. Further, such information loss is generally destructive for semantic text analytics in the legal domain. In this paper, we propose a novel semantic self-segmentation (Se3) for long document summarization in low-resource regimes, namely (i) to process longer inputs than the model memory capacity and (ii) to produce accurate summaries even with few labeled data. Se3 allows transformers to summarize the entire input regardless of the size by segmenting a labeled document into shorter and high-correlated source-target pairs. Experiments, whose results are evaluated with several accuracy measures, show that generative transformers combined with Se3 significantly boost ROUGE summarization scores. Se3 achieves new state-of-the-art results on two popular legal corpora in both low-resource regimes of data scarcity and GPU memory limited to 12GB. Finally, we perform ablation studies to evaluate how the different components of our system contribute to the performance gain.
 
-You can use the [editor on GitHub](https://github.com/Se3-UniBo/Se3-UniBo.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### WebApp
 
-### Markdown
+[Se3 Web Application]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Se3-UniBo/Se3-UniBo.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The team is made by: 
+* Dr. Luca Ragazzi (PhD Student) (l.ragazzi@unibo.it)
+* Prof. Gianluca Moro (PhD) (gianluca.moro@unibo.it)
+
+_Department of Computer Science and Engineering, University of Bologna, Campus of Cesena._
