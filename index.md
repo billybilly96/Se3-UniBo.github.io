@@ -11,8 +11,8 @@ It will be available soon!
 
 ## Team and Contacts
 
-* Luca Ragazzi (PhD Student) - l.ragazzi@unibo.it
-* Gianluca Moro (PhD) - gianluca.moro@unibo.it
+* Luca Ragazzi (Ph.D. Student) - l.ragazzi@unibo.it
+* Gianluca Moro (Ph.D.) - gianluca.moro@unibo.it
 
 _Department of Computer Science and Engineering, University of Bologna, Campus of Cesena_
 
