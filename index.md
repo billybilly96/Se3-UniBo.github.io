@@ -14,8 +14,8 @@ It will be available soon!
 * Luca Ragazzi (Ph.D. Student) - l.ragazzi@unibo.it
 * Gianluca Moro (Ph.D., Assistant Professor) - gianluca.moro@unibo.it
 
-_Department of Computer Science and Engineering, University of Bologna
-Via dell'Università 50, I-47522 Cesena, Italy_
+_Department of Computer Science and Engineering, University of Bologna_
+_Via dell'Università 50, I-47522 Cesena, Italy_
 
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
